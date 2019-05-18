@@ -6,9 +6,12 @@ public class ScannerPractice {
 
     public static void main(String[] args) {
 
+
         ArrayList<String> arrayList = new ArrayList<>();
 
-        Scanner scanner = new Scaner()
+        Scanner scanner = new Scaner();
+
+        System.out.println(scanner);
 
     }
 
