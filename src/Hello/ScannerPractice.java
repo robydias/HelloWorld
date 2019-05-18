@@ -13,6 +13,23 @@ public class ScannerPractice {
 
         System.out.println(scanner);
 
+        ArrayList<String> arrayList = new ArrayList<>();
+
+        Scanner scanner = new Scaner();
+
+        System.out.println(scanner);
+
+        ArrayList<String> arrayList = new ArrayList<>();
+
+        Scanner scanner = new Scaner();
+
+        System.out.println(scanner);
+        ArrayList<String> arrayList = new ArrayList<>();
+
+        Scanner scanner = new Scaner();
+
+        System.out.println(scanner);
+
     }
 
 
